@@ -13,6 +13,8 @@
 </head>
 <body>
 	<a href="http://localhost:8081/guestMVC/guest/write.do">방명록 작성</a><br/>
+	
+	<h3>팀원 방명록</h3>
 </body>
 
 </html>
